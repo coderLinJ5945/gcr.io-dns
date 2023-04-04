@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:95bf38bc88a7446449ff57e4978267ae12b7b8d5d8f41389db716d01dcb59aa1
+MAINTAINER lj
