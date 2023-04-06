@@ -1,2 +1,2 @@
-FROM gcr.io/kfserving/kfserving-controller:v0.5.1
+FROM kfserving/kfserving-controller:v0.5.1
 MAINTAINER lj
